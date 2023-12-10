@@ -1,0 +1,35 @@
+{
+  "name": "react-native-number-animate",
+  "version": "1.0.0",
+  "description": "Elevate your React Native app's user experience with the power of animated numbers! I'm thrilled to present react-native-number-animate, a lightweight and customizable package designed to seamlessly integrate animated numeric displays into your React Native projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KananIslamzada/react-native-number-animate.git"
+  },
+  "author": "Kanan Islamzada",
+  "license": "MIT",
+  "keywords": [
+    "react-native-number",
+    "react-native-number-animate",
+    "react-native-number-animation",
+    "react-native-animated-number",
+    "number",
+    "animated-number",
+    "animate-number",
+    "number-animation",
+    "animated",
+    "rn-animated-number",
+    "rn-number-animation",
+    "numbers",
+    "numbers-animation",
+    "animated-numbers"
+  ],
+  "bugs": {
+    "url": "https://github.com/KananIslamzada/react-native-number-animate/issues"
+  },
+  "homepage": "https://github.com/KananIslamzada/react-native-number-animate#readme"
+}
