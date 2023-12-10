@@ -116,4 +116,4 @@ AnimatedNumber.defaultProps = {
     textHeight: DEFAULT_HEIGHT
 }
 
-export default memo(AnimatedNumber);
+export default AnimatedNumber;

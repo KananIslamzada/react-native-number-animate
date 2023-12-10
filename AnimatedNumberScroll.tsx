@@ -1,7 +1,7 @@
 import React, { memo, useCallback, useEffect } from 'react';
 import { View, Text, ViewStyle, TextStyle } from 'react-native';
 import Animated, { EasingFunction, cancelAnimation, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
-import { EntryOrExitLayoutType } from './index';
+import { EntryOrExitLayoutType } from './AnimatedNumber';
 
 interface IAnimatedNumberScroll {
     value: number;

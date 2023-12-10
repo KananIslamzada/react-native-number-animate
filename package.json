@@ -1,8 +1,8 @@
 {
   "name": "react-native-number-animate",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Elevate your React Native app's user experience with the power of animated numbers! I'm thrilled to present react-native-number-animate, a lightweight and customizable package designed to seamlessly integrate animated numeric displays into your React Native projects.",
-  "main": "index.js",
+  "main": "AnimatedNumber.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
